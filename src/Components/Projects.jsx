@@ -1,8 +1,8 @@
 import React from "react";
 import WeatherImg from "../assets/WeatherApp.png";
 import InterviewImg from "../assets/InterviewEasy.png";
-import MusicfastImg from "../assets/MusicFast.png";
-import TodoListImg from "../assets/Todo List.png";
+import MusicfastImg from "../assets/Musicfast.png";
+import TodoListImg from "../assets/TodoList.png";
 
 const Projects = () => {
   const projects = [
